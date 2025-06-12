@@ -33,7 +33,7 @@ const current_members = [
     },
     {
         avatar: './image/placehold.jpg',
-        name: '张举',
+        name: '刘珂池',
         title: '2020级',
         links: [
             {icon: 'github', link: 'https://github.com/ZimoLoveShuang'},
